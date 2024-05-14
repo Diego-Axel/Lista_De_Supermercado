@@ -27,5 +27,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Sobre
 
-- App desenvolvido por demanda de cliente em específico -> Feito para as NECESSIDADES dele, do jeito que ele quis. Aqui só tem uma PEQUENA parte do código, como esse é um aplicativo que um cliente me encomendou, eu não irei colocar ele por completo aqui por motivos óbvios e maiores. Não atualizarei mais nada por aqui, 90% do código contunuara privado. Obrigado pela compreensão.
+- App desenvolvido por demanda de cliente em específico -> Feito para as NECESSIDADES dele, do jeito que ele quis. Aqui só tem uma PEQUENA parte do código, como esse é um aplicativo que um cliente me encomendou, eu não irei colocar ele por completo aqui por motivos óbvios e maiores. Não atualizarei mais nada por aqui, 90% do código continuara privado. Obrigado pela compreensão.
 
